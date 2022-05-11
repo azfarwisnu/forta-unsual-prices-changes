@@ -42,6 +42,7 @@ The agent behaviour can be verified with the following transactions:
     "0x271544af1f703ac3deb3f12790de83b3b987aa2b"
   ]
 }
+```
 
 ```
 2 findings for transaction 0x72a725b48b2c18a0a887bfdc9ee7be1cb839bc146c987e2054856b0751da2bd5 {
@@ -89,6 +90,3 @@ The agent behaviour can be verified with the following transactions:
 }
 
 ```
-
-```
-- 0x3a0f757030beec55c22cbc545dd8a844cbbb2e6019461769e1bc3f3a95d10826 (15,000 USDT)
